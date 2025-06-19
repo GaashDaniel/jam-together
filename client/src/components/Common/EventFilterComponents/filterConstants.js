@@ -1,0 +1,25 @@
+export const GENRES = [
+  "rock",
+  "jazz",
+  "blues",
+  "classical",
+  "pop",
+  "folk",
+  "country",
+  "electronic",
+  "hip-hop",
+  "reggae",
+  "funk",
+  "soul",
+  "punk",
+  "metal",
+  "alternative",
+];
+export const DEFAULT_FILTERS = {
+  search: "",
+  genres: [],
+  location: "",
+  dateFrom: "",
+  dateTo: "",
+  instruments: [],
+};
